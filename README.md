@@ -1,5 +1,6 @@
 Hubbub
 ======
+by Hogan Lee
 
 Issues get messy, Hubbub keeps you organized.
 
